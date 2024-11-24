@@ -1,2 +1,4 @@
-# Gen-Pass
-Generador de Contraseñas
+### GENERADOR DE CONTRASEÑAS
+### CREADO POR VIR
+
+# B I E N V E N I D O
