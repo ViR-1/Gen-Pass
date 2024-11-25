@@ -5,7 +5,7 @@
 
 🔥 INSTALACION 🔥
 
-pgk update
+pkg update
 
 pkg install openssl-tool
 
